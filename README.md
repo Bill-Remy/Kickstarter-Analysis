@@ -28,7 +28,7 @@ To determine the impact of launch date on campaign success a pivot table was cre
 	
 The approach for understanding how outcomes were related to goals, a stratified review of outcomes versus goals was used.  Goals were divided into a total of twelve groupings starting with Goals less than $1,000 to greater than $50,000 in $5,000 increments.  The data was group only for the subcategory of “Plays” based on the scope of the project.  Campaign outcomes were categorized as “successful”, “canceled” and “failed” within each bucket by size of goal.  Next the percentages by goal bucket for each outcome were calculated and graphed to understand the trends and draw conclusions.  
 
-
+'[Outcomes Pivot]https://github.com/Bill-Remy/Kickstarter-Analysis/blob/d5afcee9de6e8b294051172c2beb7d61ea363dc1/Resources/Outcomes%20Pivot.png
 
 
 # 3.0 Analysis Results
