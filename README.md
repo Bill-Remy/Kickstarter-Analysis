@@ -1,6 +1,7 @@
 **Kickstarter Analysis – Determining Impact of Launch Dates and Goals on Fundraising Campaigns**
 
-1.0  Project Overview and Purpose
+**1.0  Project Overview and Purpose**
+
 The project initiator, Louise, wants to understand how the success for fundraising campaigns is impacted by timing and published goal.
 
 The purpose of the project is to examine a dataset of prior projects from multiple countries to determine the following:
