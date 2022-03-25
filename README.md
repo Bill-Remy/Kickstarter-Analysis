@@ -19,7 +19,7 @@ Next the dates for launch were in Unix format and had to be converted to usable 
 
 To determine the impact of launch date on campaign success a pivot table was create that specifically examines various campaign outcomes by month for all years in the dataset.  The data was filtered to only include “Theater”  Parent category.   The specific pivot table is shown below along with a graphical representation of the data.
 
-Table 1 Pivot Table of Outcomes Based on Launch Date
+![Theaters Pivot Table!]Resources/Outcomes Pivot.png"Table 1 Pivot Table of Outcomes by Launch"
              
 
 ## ***2.2 Impact of Goal versus Outcomes for Plays**
