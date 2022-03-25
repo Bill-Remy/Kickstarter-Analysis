@@ -23,17 +23,17 @@ To determine the impact of launch date on campaign success a pivot table was cre
 
 ![Theater Outcomes vs Launch Dates]https://github.com/Bill-Remy/Kickstarter-Analysis/blob/789918431649239a7aa9e3c82d93744c7bd5d8bd/Resources/Theater_Outcomes_vs_Launch.png.png
      
-
 ## ***2.2 Impact of Goal versus Outcomes for Plays**
 	
 The approach for understanding how outcomes were related to goals, a stratified review of outcomes versus goals was used.  Goals were divided into a total of twelve groupings starting with Goals less than $1,000 to greater than $50,000 in $5,000 increments.  The data was group only for the subcategory of “Plays” based on the scope of the project.  Campaign outcomes were categorized as “successful”, “canceled” and “failed” within each bucket by size of goal.  Next the percentages by goal bucket for each outcome were calculated and graphed to understand the trends and draw conclusions.  
 
 '[Outcomes Pivot]https://github.com/Bill-Remy/Kickstarter-Analysis/blob/d5afcee9de6e8b294051172c2beb7d61ea363dc1/Resources/Outcomes%20Pivot.png
 
+![Outcomes Chart]https://github.com/Bill-Remy/Kickstarter-Analysis/blob/48ee86736cbe9be41313344ea140fd17d8b65528/Resources/Outcomes_vs_Goals.png
 
 # 3.0 Analysis Results
 ## 3.1 Outcomes Based on Launch Dates
-- Successful fundraising campaigns appear to be highly dependent on launch timing.  From the graph it can clearly be observed that launching a campaign in the May to July time frame has significantly better outcomes than early or late in the year.  The number of failed and canceled projects are mostly flat throughout the year.  It does not appear that timing has a significant impact on whether a project is failed or canceled.  
+- Successful fundraising campaigns appear to be highly dependent on launch timing.  From the graph it is evident that launching a campaign in the May to July time frame has significantly better outcomes than early or late in the year.  The number of failed and canceled projects are mostly flat throughout the year.  It does not appear that timing has a significant impact on whether a project is failed or canceled.  
 - Volume of projects increased dramatically during the middle part of the year.  Also, volume overall does not appear to impact outcome since the volume of successful projects goes up with volume while the canceled and failed  projects remain mostly flat.
 ## 3.2 Outcomes Based on Goals
 - Projects with smaller goals, less than $5,000 have significantly better outcomes, greater than 70% success rate.  As the size of the goal increases the percent of successful outcomes drops and is roughly a breakeven at projects with goals in the $15-20,000 range.  
