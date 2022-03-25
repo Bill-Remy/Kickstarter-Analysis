@@ -21,7 +21,7 @@ To determine the impact of launch date on campaign success a pivot table was cre
 
 ![Theaters Pivot Table 1](/Kickstarter-Analysis/Theaters Pivot Table 1.png)
 
-<img src="/Kickstarter-Analysis/Theaters Pivot Table 1"style="height: 100px; width:100px;" />
+!Theaters Pivot Table 1.png
      
 
 ## ***2.2 Impact of Goal versus Outcomes for Plays**
