@@ -20,14 +20,13 @@ Next the dates for launch were in Unix format and had to be converted to usable 
 To determine the impact of launch date on campaign success a pivot table was created that specifically examines various campaign outcomes by month for all years in the dataset.  The data was filtered to only include “Theater”  Parent category.   
 
 ![Theaters Pivot Table 1]https://github.com/Bill-Remy/Kickstarter-Analysis/blob/c9a80ebf1d9a4b344d6f398139fabcf44ce67bbd/Resources/Theaters%20Pivot%20Table%201.png
+
+![Theater Outcomes vs Launch Dates]https://github.com/Bill-Remy/Kickstarter-Analysis/blob/789918431649239a7aa9e3c82d93744c7bd5d8bd/Resources/Theater_Outcomes_vs_Launch.png.png
      
 
 ## ***2.2 Impact of Goal versus Outcomes for Plays**
 	
-The approach for understanding how outcomes were related to goals, a stratified review of outcomes versus goals was used.  Goals were divided into a total of twelve groupings starting with Goals less than $1,000 to greater than $50,000 in $5,000 increments.  The data was group only for the subcategory of “Plays” based on the scope of the project.  Campaign outcomes were categorized as “successful”, “canceled” and “failed” within each bucket by size of goal.  See Table 2 below.
-Table 2 Stratified Outcomes by Goal
-          
-Next the percentages by goal bucket for each outcome were calculated and graphed to understand the trends and draw conclusions.  
+The approach for understanding how outcomes were related to goals, a stratified review of outcomes versus goals was used.  Goals were divided into a total of twelve groupings starting with Goals less than $1,000 to greater than $50,000 in $5,000 increments.  The data was group only for the subcategory of “Plays” based on the scope of the project.  Campaign outcomes were categorized as “successful”, “canceled” and “failed” within each bucket by size of goal.  Next the percentages by goal bucket for each outcome were calculated and graphed to understand the trends and draw conclusions.  
 
 
 
