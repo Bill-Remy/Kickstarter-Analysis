@@ -1,6 +1,6 @@
 **Kickstarter Analysis – Determining Impact of Launch Dates and Goals on Fundraising Campaigns**
 
-**1.0  Project Overview and Purpose**
+# **1.0  Project Overview and Purpose**
 
 The project initiator, Louise, wants to understand how the success for fundraising campaigns is impacted by timing and published goal.
 
@@ -8,21 +8,21 @@ The purpose of the project is to examine a dataset of prior projects from multip
 - How does the timing of campaign launch impact the success of the “Theater” projects?
 - How does the published goal impact the success of “Plays”?
 
-**3.0 Analysis and Challenges**
+# **2.0 Analysis and Challenges**
 
 The approach to analyzing the dataset was separated into two elements of work to align with the stated purpose.  Prior to starting the analysis, some additional fields were created to facilitate the analysis.  Specifically, the Category/Subcategory column was separated into unique “Parent” and “Subcategory”.  
 
 Next the dates for launch were in Unix format and had to be converted to usable data formats along with creating a “Years” specific column.
 
 
-	***3.1  Impact of Launch Data on Campaign Success***
+## ***3.1  Impact of Launch Data on Campaign Success***
 
 To determine the impact of launch date on campaign success a pivot table was create that specifically examines various campaign outcomes by month for all years in the dataset.  The data was filtered to only include “Theater”  Parent category.   The specific pivot table is shown below along with a graphical representation of the data.
 
 Table 1 Pivot Table of Outcomes Based on Launch Date
              
 
-	***3.2 Impact of Goal versus Outcomes for Plays**
+## ***3.2 Impact of Goal versus Outcomes for Plays**
 	
 The approach for understanding how outcomes were related to goals, a stratified review of outcomes versus goals was used.  Goals were divided into a total of twelve groupings starting with Goals less than $1,000 to greater than $50,000 in $5,000 increments.  The data was group only for the subcategory of “Plays” based on the scope of the project.  Campaign outcomes were categorized as “successful”, “canceled” and “failed” within each bucket by size of goal.  See Table 2 below.
 Table 2 Stratified Outcomes by Goal
