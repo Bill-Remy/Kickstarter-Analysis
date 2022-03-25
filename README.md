@@ -17,8 +17,7 @@ Next the dates for launch were in Unix format and had to be converted to usable 
 
 ## ***2.1  Impact of Launch Data on Campaign Success***
 
-To determine the impact of launch date on campaign success a pivot table was create that specifically examines various campaign outcomes by month for all years in the dataset.  The data was filtered to only include “Theater”  Parent category.   The specific pivot table is shown below along with a graphical representation of the data.
-
+To determine the impact of launch date on campaign success a pivot table was created that specifically examines various campaign outcomes by month for all years in the dataset.  The data was filtered to only include “Theater”  Parent category.   
 
 
              
