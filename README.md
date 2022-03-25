@@ -19,7 +19,7 @@ Next the dates for launch were in Unix format and had to be converted to usable 
 
 To determine the impact of launch date on campaign success a pivot table was created that specifically examines various campaign outcomes by month for all years in the dataset.  The data was filtered to only include “Theater”  Parent category.   
 
-![Theaters Pivot Table 1](https://Bill-Remy/Kickstarter-Analysis/Theaters Pivot Table 1.png)
+![Theaters Pivot Table 1](/Kickstarter-Analysis/Theaters Pivot Table 1.png)
      
 
 ## ***2.2 Impact of Goal versus Outcomes for Plays**
