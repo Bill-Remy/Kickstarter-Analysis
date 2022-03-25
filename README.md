@@ -1,12 +1,11 @@
-Excel Kickstarting Project – Determining Impact of Launch Dates and Goals on Fundraising Campaigns
+**Kickstarter Analysis – Determining Impact of Launch Dates and Goals on Fundraising Campaigns**
 
-1.0  Project Overview
+1.0  Project Overview and Purpose
 The project initiator, Louise, wants to understand how the success for fundraising campaigns is impacted by timing and published goal.
 
-2.0 Project Purpose
 The purpose of the project is to examine a dataset of prior projects from multiple countries to determine the following:
-•	How does the timing of campaign launch impact the success of the “Theater” projects?
-•	How does the published goal impact the success of “Plays”?
+-How does the timing of campaign launch impact the success of the “Theater” projects?
+-How does the published goal impact the success of “Plays”?
 
 3.0 Analysis and Challenges
 The approach to analyzing the dataset was separated into two elements of work to align with the stated purpose.  Prior to starting the analysis, some additional fields were created to facilitate the analysis.  Specifically, the Category/Subcategory column was separated into unique “Parent” and “Subcategory”.  
