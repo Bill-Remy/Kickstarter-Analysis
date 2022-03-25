@@ -34,6 +34,7 @@ The approach for understanding how outcomes were related to goals, a stratified 
 # 3.0 Analysis Results
 ## 3.1 Outcomes Based on Launch Dates
 - Successful fundraising campaigns appear to be highly dependent on launch timing.  From the graph it is evident that launching a campaign in the May to July time frame has significantly better outcomes than early or late in the year.  The number of failed and canceled projects are mostly flat throughout the year.  It does not appear that timing has a significant impact on whether a project is failed or canceled.  
+- 
 - Volume of projects increased dramatically during the middle part of the year.  Also, volume overall does not appear to impact outcome since the volume of successful projects goes up with volume while the canceled and failed  projects remain mostly flat.
 ## 3.2 Outcomes Based on Goals
 - Projects with smaller goals, less than $5,000 have significantly better outcomes, greater than 70% success rate.  As the size of the goal increases the percent of successful outcomes drops and is roughly a breakeven at projects with goals in the $15-20,000 range.  
