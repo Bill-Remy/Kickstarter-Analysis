@@ -45,5 +45,6 @@ The data spans several years and this analysis weighted all years equally.  It i
 
 ## 3.4 Additional Analysis
 Further analysis could include the following:
-•	Segmentation of projects by region to see how both size of project and timing vary
-•	Segmenting project by Parent and Subcategory to understand the impact of launch timing and size vary
+- Segmentation of projects by region to see how size of project and timing vary
+- Segmenting project by Parent and Subcategory to understand the impact of launch timing and size vary
+- Look for trends over years across Parent Categories and Subcategories
